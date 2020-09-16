@@ -1,0 +1,8 @@
+Iteration 100 Optima 81 Using Function random
+Iteration :100 Optima :81 Using Function :random
+Iteration :1000 Optima :100 Using Function :random
+Iteration :100 Optima :81 Using Function :random
+Iteration :100 Optima :82 Using Function :random
+Iteration :100 Optima :81 Using Function :random
+Iteration :100 Optima :192 Using Function :random
+Iteration :300 Optima :97 Using Function :random
